@@ -16,8 +16,7 @@ If you have an exciting project or just want to connect, feel free to reach out!
 
 ## 📬 Contact Me  
 📧 paulestrella92@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-📺 [YouTube](https://www.youtube.com/tu-canal)  
+💼 [LinkedIn](https://www.linkedin.com/in/paulestrelladev/)  
 
 ## 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
