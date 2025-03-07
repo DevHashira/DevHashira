@@ -18,8 +18,7 @@ Always learning, always improving! 🚀
 
 ## 📬 Contact Me  
 📧 paulestrella92@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-📺 [YouTube](https://www.youtube.com/tu-canal)  
+💼 [LinkedIn](https://www.linkedin.com/in/paulestrelladev/)  
 
 ## 🛠️ Technologies & Tools  
 ### **🔹 Core Skills (Main Focus)**  
