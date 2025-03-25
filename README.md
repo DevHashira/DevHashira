@@ -6,9 +6,10 @@
 🤝 Open to collaboration and new challenges  
 
 ## 🌱 Currently learning & improving  
-- 🏗️ Laravel for backend development
-- 🖌️ Vue.js for interactive frontends
-- 🐍 Advanced Python for automation
+- 🏗️ Laravel for backend development  
+- 🖌️ Vue.js for interactive frontends  
+- 🐍 Advanced Python for automation  
+- 🛢️ MySQL & MongoDB for data management  
 - 📊 Data Science & Machine Learning (side interest)
 
 ## 🚀 About Me  
@@ -36,9 +37,11 @@ Always learning, always improving! 🚀
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)  
 ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=flat&logo=pandas&logoColor=white)  
-![Flet](https://img.shields.io/badge/Flet-0085FF?style=flat&logo=python&logoColor=white)  
+![Flet](https://img.shields.io/badge/Flet-0085FF?style=flat&logo=python&logoColor=white)
 
 ---
 
