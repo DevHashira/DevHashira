@@ -31,7 +31,7 @@ I recently completed a bootcamp in **Data Science & Machine Learning**, and I've
 ## 📬 Contact Me
 
 📧 paulestrella92@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui)
+🔗 [LinkedIn](https://www.linkedin.com/in/paulestrelladev/)
 
 ---
 
