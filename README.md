@@ -50,6 +50,7 @@ I recently completed a bootcamp in **Data Science & Machine Learning**, and I've
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?logo=ai&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-2962FF?logo=data&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
