@@ -1,30 +1,28 @@
 # Hey 👋, I'm Paul Estrella
 
-🎯 **Flutter Developer | Python + AI Integrator**  
-💡 Passionate about mobile apps, emotional wellness, and real-world AI applications  
-🚀 Building impactful solutions combining Flutter, FastAPI and Machine Learning  
-🤝 Focused, adaptable and always improving
+🎯 **Mobile App Developer | Flutter + FastAPI | AI Integration**  
+💡 I build mobile apps that blend user-centered design with intelligent automation and emotional tech.  
+🚀 My stack combines Flutter for frontend, FastAPI for backend, and Python for smart, scalable solutions.
 
 ---
 
-## 📚 Currently Learning & Strengthening
+## 📚 Currently Focusing On
 
-- 🚀 **Flutter** for mobile app development  
-- 🔐 **Firebase** for authentication and real-time features  
-- 🧠 **FastAPI** for backend APIs with integrated AI features  
-- 🔬 **Python** for automation, ML models and API services  
-- 🌐 **Improving English** for global communication
+- 📱 Flutter for mobile-first development  
+- 🔐 Firebase for authentication and cloud services  
+- ⚙️ FastAPI for backend APIs with integrated AI features  
+- 🧠 Python for automation and predictive systems  
+- 🧭 English fluency for global opportunities
 
 ---
 
 ## 💼 About Me
 
-I’m a Flutter Developer focused on building mobile applications that improve people's lives.  
-Currently, I specialize in creating solutions using **Flutter (Dart)** for frontends and **FastAPI (Python)** for backend services, especially when AI and emotional intelligence features are required.
+I’m a developer specialized in creating mobile applications that generate real impact.  
+My focus is on delivering efficient, meaningful, and user-friendly solutions using **Flutter** and **Python (FastAPI)**, often enhanced with AI-driven functionalities.
 
-My projects aim to integrate **user-centered design**, **automation**, and **predictive technologies** in a meaningful way — especially in educational and emotional health contexts.
-
-I recently completed a bootcamp in **Data Science & Machine Learning**, and I've built AI-integrated projects like **EmotiNest**, a platform for tracking and predicting emotional states in children.
+I recently completed a **Data Science & Machine Learning bootcamp**, and my projects combine emotional wellness, automation, and intelligent interfaces.  
+One of them is **EmotiNest**, a platform designed to assist families and children with neurodivergent conditions through predictive emotional tracking.
 
 ---
 
@@ -54,8 +52,7 @@ I recently completed a bootcamp in **Data Science & Machine Learning**, and I've
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-
 ---
 
 ## 🧠 Quote
-> _"Building modern mobile apps while exploring the power of AI and emotional intelligence."_
+> _"Building mobile-first apps enhanced with AI, for real-world emotional impact and meaningful automation."_
