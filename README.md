@@ -24,8 +24,6 @@
 I specialize in mobile development with a strong backend and AI foundation.  
 My mission is to build mobile-first experiences powered by AI and data science to create meaningful impact — especially in emotional well-being and smart automation.
 
-I work with clean code, scalable architecture, and a vision focused on purposeful tech.
-
 ---
 
 ## 📬 Contact Me
@@ -37,20 +35,24 @@ I work with clean code, scalable architecture, and a vision focused on purposefu
 
 ## 🛠️ Tech Stack
 
-### 🔥 Core Skills  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔥 Core Skills
 
-### 📦 Additional Knowledge  
-![Flet](https://img.shields.io/badge/Flet-18A999?style=for-the-badge&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FE7A16?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-003B57?style=for-the-badge&logo=data&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 📦 Additional Knowledge
+
+![Flet](https://img.shields.io/badge/Flet-18A999?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FE7A16?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-003B57?style=flat-square&logo=marketo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
