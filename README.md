@@ -1,26 +1,28 @@
 # Hey 👋, I'm Paul Estrella
 
-🎯 **Mobile App Developer | Flutter + FastAPI | AI-Enhanced Solutions**  
-💡 I create mobile-first experiences that blend intuitive UX with AI integration — especially in projects that support emotional well-being and smart automation.  
-🚀 My core stack combines **Flutter** for cross-platform UI, **FastAPI** for scalable backends, and **Python** for intelligent system behavior.
+🎯 **Mobile App Developer | React Native + FastAPI | AI-Enhanced Solutions**  
+💡 I build mobile-first experiences that combine intuitive UX, emotional health features, and AI-powered personalization.  
+🚀 My current stack focuses on **React Native** for cross-platform development, **FastAPI** for backend APIs, and **Python** for intelligent systems.
 
 ---
 
 ## 📚 Currently Focusing On
 
-- 📱 Flutter for cross-platform mobile development  
-- ⚙️ FastAPI for backend APIs connected to mobile apps  
-- 🔐 Firebase for authentication and push notifications  
-- 🤖 Python for AI integration (OpenAI, ML models)  
+- 📱 React Native with Expo for mobile-first app development  
+- ⚛️ TypeScript for scalable and maintainable components  
+- ⚙️ FastAPI for AI-enhanced backend services  
+- 🔐 Firebase for authentication and real-time features  
+- 🤖 Python for building chatbots, emotional tracking, and OpenAI integration  
 - 🧠 Improving my English for global remote opportunities  
 
 ---
 
 ## 💼 About Me
 
-I specialize in **mobile development powered by backend APIs and AI**.  
-My mission is to develop meaningful applications that improve real lives — particularly in the field of emotional health, habit tracking, and automation.  
-As a self-taught developer with a background in emotional tech, I bring purpose and precision to every app I build.
+I'm a self-taught mobile developer passionate about building apps that truly improve people’s lives.  
+My mission is to create meaningful tools that promote **emotional wellness**, support **daily habits**, and connect with users through **AI-enhanced experiences**.
+
+I specialize in React Native mobile development, combining it with robust Python backends using FastAPI — ideal for remote-first startups and wellness-focused platforms.
 
 ---
 
@@ -28,8 +30,8 @@ As a self-taught developer with a background in emotional tech, I bring purpose 
 
 ### 🔹 Core Mobile Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,4 +63,5 @@ As a self-taught developer with a background in emotional tech, I bring purpose 
 
 ## 🧠 Quote
 
-*"Building mobile-first apps enhanced with AI and data science — for real-world emotional impact and meaningful automation."*
+*"Creating mobile apps enhanced by AI — for real-world emotional impact and long-term positive change."*
+
