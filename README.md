@@ -8,7 +8,8 @@
 ---
 
 ## 📚 Currently Focusing On
-- 📱 React Native for cross-platform mobile app development with native-like performance  
+- 📱 React Native for cross-platform mobile app development with native-like performance 
+- 💻 React (with TypeScript) for high-performance, responsive web applications
 - 🐍 Python (with FastAPI) for scalable, AI-enhanced backend APIs and automation workflows  
 - 🔐 Firebase for real-time features, authentication, and cloud storage  
 - 🗄️ PostgreSQL for structured and efficient data management in current apps  
