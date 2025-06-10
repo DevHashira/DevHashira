@@ -26,14 +26,6 @@ Whether you need a mobile app, a modern web dashboard, or a backend that integra
 
 ---
 
-## 🚀 Featured Project
-### EmotiNest
-An AI-powered emotional tracking platform for children with autism, ADHD, and Asperger's. EmotiNest combines predictive modeling (XGBoost) with intuitive mobile interfaces for parents and therapists, aiming to empower families and create real impact.
-
-🔍 Includes AI-powered features such as emotion prediction (via XGBoost), personalized suggestions for parents, and chatbot interactions using OpenAI APIs.
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🔹 Core Stack
