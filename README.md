@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/tu-usuario/tu-repo/blob/main/banner.png" alt="coding-banner" width="500"/>
-</p>
-
 # Hey 👋, I'm Paul Estrella  
 🎯 **Mobile Developer | Flutter + Python/ML | Specialized in Health & Wellness Apps**  
 
