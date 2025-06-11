@@ -34,7 +34,7 @@ I've worked on projects involving emotional wellness, education, and personalize
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-06B6D4?style=flat-square&logo=apachespark&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -55,7 +55,6 @@ I've worked on projects involving emotional wellness, education, and personalize
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 
 ---
 
