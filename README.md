@@ -1,63 +1,85 @@
 # Hey 👋, I'm Paul Estrella
-🎯 **Software Developer | Mobile, Web & AI**  
 
-💡 I build cross-platform experiences that combine intuitive UX, data automation, and AI-driven features to create meaningful impact.  
-
-🚀 My core stack is built with **Flutter** for mobile-first development and **Python/FastAPI** for powerful AI-ready backends.
+🎯 **Mobile Developer (React Native + Python/ML)**  
+I help health & wellness startups build mobile apps with AI-powered backends (XGBoost, FastAPI) to deliver personalized and impactful experiences.
 
 ---
 
-## 📚 Currently Focusing On
-- 📱 Flutter & Dart for cross-platform mobile app development with native performance 
-- 💻 React (with TypeScript) for building dashboards and web admin tools in freelance projects
-- 🐍 Python (with FastAPI) for scalable, AI-enhanced backend APIs and automation workflows  
-- 🔐 Firebase for real-time features, authentication, and cloud storage  
-- 🗄️ PostgreSQL for structured and efficient data management in current apps  
-- 🌍 Improving my English to connect with global remote teams and opportunities  
+## 🚀 What I Do
+- **Cross-platform apps** with React Native + TypeScript for native performance
+- **AI/ML-powered backends** using Python, FastAPI & XGBoost
+- **Predictive analytics** and real-time data integration for smart features
+- **Health & wellness tools** that create positive impact on people's lives
 
 ---
 
-## 💼 About Me
-I'm a self-taught software developer passionate about creating apps that solve real problems.  
+## 🔧 Tech Stack
 
-From mobile wellness platforms to AI-powered chatbots and custom dashboards, I focus on delivering clean, scalable and user-first solutions.
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Whether you need a mobile app, a modern web dashboard, or a backend that integrates AI — I help bring ideas to life with code.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Core Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### 🧠 Backend & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🔹 DevOps & Tools
+### ☁️ Cloud & Dev Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔹 Additional Tools for Web & Prototyping
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 💡 Bonus Experience
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet-18A999?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FE7A16?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-003B57?style=flat-square&logo=marketo&logoColor=white)
 
 ---
 
-## 📬 Contact Me
+## 📚 Currently Learning & Improving
+- 🌐 **English fluency** for better global communication
+- 🤖 **Advanced ML** and behavioral analytics
+- 📱 **UI/UX for mobile** apps that improve retention and usability
+
+---
+
+## 💼 Featured Project
+
+### 🎯 EmotiNest  
+**A predictive wellness platform for children with ADHD/Autism.**  
+Built with React Native, FastAPI & XGBoost to recommend personalized therapies, nutrition tips and emotional support based on behavioral patterns.
+
+🧠 Tech Highlights:  
+- Predictive ML model (XGBoost)  
+- Scalable API with FastAPI  
+- Mobile-first architecture with real-time feedback  
+
+🔗 [Live App](https://www.myemotinest.com/login) – *(MVP Stage)*
+
+---
+
+## 🤝 Who I Work With
+- 🚀 **Health Tech startups** developing emotional, behavioral or wellness apps
+- 🧠 **AI-driven teams** looking to integrate ML into mobile workflows
+- 🌍 **Remote-first companies** needing mobile + backend expertise
+- 🔧 **Freelance partners** looking for a solid mobile developer for ML-powered apps
+
+---
+
+## 📬 Let's Connect
 📧 [paulestrella92@gmail.com](mailto:paulestrella92@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/paulestrelladev)
+🔗 [LinkedIn](https://linkedin.com/in/paulestrelladev)  
+🌍 Available for **remote work** & **freelance projects**
 
 ---
 
-## 🧠 Quote
-*"Building mobile-first solutions with purpose — combining Flutter, AI and data to empower families and create real impact."*
+## 🧠 My Mission
+*"Building mobile-first solutions that empower families and improve lives — through React Native, AI, and purpose-driven development."*
+
+
