@@ -1,39 +1,39 @@
 # Hey 👋, I'm Paul Estrella  
-🎯 **Mobile Developer | Flutter + Python/ML | Specialized in Health & Wellness Apps**  
+🎯 **Backend Developer (Python/FastAPI) • Flutter Mobile Apps • Predictive AI Tools • HealthTech | Remote-First**
 
-💡 I build cross-platform mobile solutions with AI-powered backends, combining Flutter, machine learning, and scalable Python APIs to create impactful applications.  
+💡 I build scalable backend systems with AI-powered features using Python/FastAPI, and develop cross-platform mobile solutions with Flutter for personal projects and future opportunities.
 
-🚀 My expertise: **Flutter** for mobile development and **Python/FastAPI + ML** for intelligent backend systems.
+🚀 My expertise: **Python/FastAPI** for intelligent backend systems with machine learning integration, plus **Flutter** for mobile app development.
 
 ---
 
 ## 📚 Currently Focusing On
+- 🐍 **Python/FastAPI** for scalable, AI-enhanced backend APIs in HealthTech
 - 📱 **Flutter** for cross-platform mobile apps with native performance  
-- 🐍 **Python/FastAPI** for scalable, AI-enhanced backend APIs  
-- 🤖 **Machine Learning & Data Science** for predictive analytics and behavioral insights  
+- 🤖 **Machine Learning & Predictive AI** for health analytics and behavioral insights  
 - 🔐 **Firebase** for real-time features, authentication, and cloud storage  
-- 🗄️ **PostgreSQL** for efficient data management and analytics  
-- 🌍 **English improvement** to connect with global remote opportunities
+- 🗄️ **PostgreSQL** for efficient health data management and analytics  
+- 🌍 **English improvement** to connect with global remote HealthTech opportunities
 
 ---
 
 ## 💼 About Me
-I'm a mobile developer with **mid-level experience** building cross-platform applications focused on health, wellness, and human-centered solutions.
+I'm a backend and mobile developer with **mid-level experience** building cross-platform applications focused on health, wellness, and predictive AI solutions.
 
-I specialize in developing apps using **Flutter** with intelligent backends powered by **Python, FastAPI, and Machine Learning**. I combine clean interfaces, real-time functionality, and data-driven features to improve lives through tech.
+I specialize in developing **Python/FastAPI backends** with intelligent features and machine learning integration for HealthTech companies. I also create **Flutter mobile apps** as personal projects and for future mobile development opportunities. I combine scalable APIs, machine learning integration, and real-time functionality to create data-driven health solutions.
 
-I've worked on projects involving emotional wellness, education, and personalized recommendations — always aiming for scalable impact, solid architecture, and a purposeful user experience.
+I've worked on projects involving emotional wellness, predictive health analytics, and personalized medical recommendations — always aiming for HIPAA-compliant architecture, scalable impact, and purposeful user experiences in the healthcare domain.
 
 ---
 
 ## 🛠️ Core Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -59,19 +59,19 @@ I've worked on projects involving emotional wellness, education, and personalize
 ---
 
 ## 🎯 What I Help Companies With
-- **Health & Wellness Mobile Apps** – Therapeutic tools, wellness platforms, family-focused solutions  
-- **AI-Powered Features** – Predictive analytics, recommendation systems, behavioral analysis  
-- **Cross-Platform Solutions** – Flutter apps that work seamlessly on iOS + Android  
-- **Intelligent Backends** – Python/FastAPI with ML integration for data-driven applications  
-- **Startup to Scale** – From MVP to production-ready mobile solutions
+- **Backend Development** – Scalable Python/FastAPI APIs with AI integration and real-time features
+- **Machine Learning** – Predictive analytics, recommendation systems, and data-driven insights  
+- **Cross-Platform Mobile Apps** – Flutter applications for personal projects and future opportunities
+- **Database Design** – PostgreSQL optimization and efficient data management
+- **Full-Stack Solutions** – End-to-end development from backend to mobile interfaces
 
 ---
 
 ## 🏢 Ideal Clients
-- **Health Tech Startups** building wellness and therapeutic applications  
-- **Tech Companies** needing cross-platform mobile solutions with AI integration  
-- **Consultancies** requiring mobile developers for client projects  
-- **International Remote Teams** seeking specialized mobile + ML expertise
+- **Tech Startups** building scalable backend systems with AI features
+- **Companies** needing Python/FastAPI expertise for data-driven applications  
+- **Remote Teams** seeking backend developers with full-stack capabilities
+- **International Projects** requiring English communication and independent delivery
 
 ---
 
@@ -83,4 +83,4 @@ I've worked on projects involving emotional wellness, education, and personalize
 ---
 
 ## 🧠 Mission
-*"Building mobile-first solutions that empower families and create meaningful impact through Flutter, AI, and purpose-driven development."*
+*"Building intelligent backend systems and mobile-first solutions that empower healthcare providers and patients through Python/FastAPI, Flutter, and predictive AI technologies."*
