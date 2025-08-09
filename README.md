@@ -1,16 +1,16 @@
 # Hey 👋, I'm Paul Estrella  
-🎯 **Python Backend & Data Science Developer | AI/ML Integration | Building Scalable Solutions**
-💡 Creating backend-driven applications that integrate AI to deliver **real-world impact**  
-🌐 Specialized in **HealthTech, FinTech, and SaaS** intelligent solutions
+🎯 **Turning Data into Intelligence | Backend APIs + Machine Learning Solutions**  
+💡 Building production-ready APIs that serve ML models and process 10K+ data points for predictive insights  
+🌐 Focused on **HealthTech, FinTech, and SaaS** applications that drive measurable impact
 
 ---
 
-## 💼 Experience Overview
-- 🎯 **Backend-Focused Developer** specializing in **Python API development**  
-- 🐍 Expert in **FastAPI & Django REST** for production-ready, scalable APIs  
-- 🤖 Skilled at **integrating AI/ML models** into robust backend architectures  
-- 📊 **Data Science expertise** for predictive analytics and intelligent insights
-- ⚡ Frontend proficiency with **React.js, TypeScript, Next.js**  
+## 💼 What I Do
+- 🎯 **FastAPI Microservices** developing high-performance REST APIs with automatic documentation  
+- 🐍 **Django Backend Systems** building scalable web applications with PostgreSQL integration  
+- 🤖 **ML Model Integration** deploying Scikit-learn and XGBoost models into production APIs  
+- 📊 **Data Processing Pipelines** using Pandas and NumPy for real-time analytics workflows
+- ⚡ **React Frontend Development** creating responsive dashboards that visualize ML predictions  
 
 ---
 
@@ -40,6 +40,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## 🚀 Key Projects & Focus Areas
+
+### 🏥 **HealthTech Solutions**
+Building patient data processing APIs with predictive analytics for improved healthcare outcomes
+
+### 💰 **FinTech Applications** 
+Developing secure transaction systems and risk assessment models using machine learning
+
+### 📊 **SaaS Analytics Platforms**
+Creating data visualization dashboards with real-time insights and automated reporting
+
 ---
 
 ## 📬 Let's Connect
@@ -50,4 +61,4 @@
 ---
 
 ## 🧠 Mission
-*"Building intelligent backend systems that transform data into decisions and deliver scalable impact across HealthTech, FinTech, and SaaS."*
+*"Transforming data into intelligent API solutions that drive business decisions and create measurable impact."*
