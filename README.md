@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevHashira&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHashira&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📬 Let's Connect
 📧 [paulestrella92@gmail.com](mailto:paulestrella92@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/paulestrelladev)  
