@@ -50,7 +50,6 @@
 📧 [paulestrella92@gmail.com](mailto:paulestrella92@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/paulestrelladev)  
 💼 [Portfolio](https://devopshererd.com)  
-💼 **Open to:** Mobile Developer | Flutter Developer | Full-Stack Mobile roles | Remote Work
 
 ---
 
