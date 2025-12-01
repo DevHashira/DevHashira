@@ -77,8 +77,8 @@ I build production-ready backends and complete digital products. My approach com
 
 📧 **Email:** devopshererd@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/paulestrelladev](https://linkedin.com/in/paulestrelladev)  
-🌐 **Portfolio:** [myemotinest.com](https://myemotinest.com)  
-📍 **Location:** Dominican Republic → Barcelona, Spain (May 2025)  
+🌐 **Portfolio:** [devopshererd.com](https://devopshererd.com)  
+📍 **Location:** Dominican Republic (May 2025)  
 ⏰ **Timezone:** GMT-4 (ET-compatible)
 
 ---
