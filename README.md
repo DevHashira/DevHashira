@@ -1,6 +1,6 @@
 # Hey 👋, I'm Paul Estrella  
 
-**Full-Stack Developer | React Native + Next.js | Mobile & Web Applications**  
+**Full-Stack Mobile Developer | React Native | TypeScript | End-to-End Solutions**  
 
 I build complete digital products: mobile apps, landing pages, and admin panels—all connected and working together. My full-stack approach means clients get cohesive solutions without coordinating multiple developers.
 
@@ -9,7 +9,7 @@ I build complete digital products: mobile apps, landing pages, and admin panels�
 ## 💼 What I Build
 
 - 📱 **Mobile Apps** — React Native + Expo cross-platform apps (iOS/Android)
-- 🌐 **Web Applications** — Next.js + React for landing pages and portals
+- 🌐 **Landing Pages** — Next.js marketing sites for user acquisition and SEO
 - 🎛️ **Admin Dashboards** — Next.js management panels for product operations
 - ☁️ **Backend Integration** — Firebase/Supabase for auth, real-time data, and storage
 - 🎨 **Complete Solutions** — TypeScript across the entire stack for type safety
@@ -20,16 +20,16 @@ I build complete digital products: mobile apps, landing pages, and admin panels�
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend Development
+### 🔹 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### 🔹 Styling
+### 🔹 Frontend Web
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔹 Backend & Cloud
@@ -99,9 +99,9 @@ Complete mobile solutions including:
 
 ## 📊 GitHub Stats
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHashira&show_icons=true&theme=tokyonight)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devopshererd&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHashira&layout=compact&theme=tokyonight)](https://github.com/DevHashira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devopshererd&layout=compact&theme=tokyonight)](https://github.com/devopshererd)
 
 ---
 
@@ -120,7 +120,7 @@ Complete mobile solutions including:
 📧 **Email:** devopshererd@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/devopshererd](https://linkedin.com/in/devopshererd)  
 🌐 **Portfolio:** [devopshererd.com](https://devopshererd.com)  
-📍 **Location:** Dominican Republic  
+📍 **Location:** Dominican Republic → Barcelona (Feb 2025)  
 ⏰ **Timezone:** GMT-4 (Americas-compatible)
 
 ---
@@ -128,7 +128,7 @@ Complete mobile solutions including:
 ## 💡 What I Bring
 ```typescript
 class PaulEstrella {
-  role = "Full-Stack Developer";
+  role = "Full-Stack Mobile Developer";
   
   stack = {
     mobile: ["React Native", "Expo", "Flutter"],
@@ -181,3 +181,4 @@ Check out my featured repositories below 👇
 
 💬 **Available for freelance projects and remote contracts**  
 🎯 **Approach:** One developer, cohesive solution, no coordination overhead
+</document_content></document>
