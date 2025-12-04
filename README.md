@@ -1,6 +1,6 @@
 # Hey 👋, I'm Paul Estrella  
 
-**Full-Stack Mobile Developer | React Native | TypeScript | End-to-End Solutions**  
+**Full-Stack Mobile Developer | React Native | Next.js | Mobile & Web Applications**  
 
 I build complete digital products: mobile apps, landing pages, and admin panels—all connected and working together. My full-stack approach means clients get cohesive solutions without coordinating multiple developers.
 
