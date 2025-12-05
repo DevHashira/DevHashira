@@ -41,14 +41,6 @@ I create complete digital products from design to deployment. My approach combin
 
 ---
 
-## 📊 GitHub Stats
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devopshererd&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devopshererd&layout=compact&theme=tokyonight)](https://github.com/devopshererd)
-
----
-
 ## 🎯 Currently
 
 - 🔭 Building healthcare mobile applications
@@ -114,8 +106,8 @@ class PaulEstrella {
 ## 📬 Let's Connect
 
 📧 **Email:** devopshererd@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/devopshererd](https://linkedin.com/in/devopshererd)  
-📍 **Location:** Santo Domingo, DO → Barcelona, ES (Feb 2025)  
+💼 **LinkedIn:** https://www.linkedin.com/in/paulestrelladev/
+📍 **Location:** Santo Domingo, DO
 ⏰ **Timezone:** GMT-4
 
 ---
