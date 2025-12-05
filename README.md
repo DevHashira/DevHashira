@@ -41,14 +41,6 @@ I create complete digital products from design to deployment. My approach combin
 
 ---
 
-## 📊 GitHub Stats
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devopshererd&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devopshererd&layout=compact&theme=tokyonight)](https://github.com/devopshererd)
-
----
-
 ## 🎯 Currently
 
 - 🔭 Building mobile & web applications
