@@ -41,11 +41,20 @@ I create complete digital products from design to deployment. My approach combin
 
 ---
 
+## 📊 GitHub Stats
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devopshererd&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devopshererd&layout=compact&theme=tokyonight)](https://github.com/devopshererd)
+
+---
+
 ## 🎯 Currently
 
-- 🔭 Building healthcare mobile applications
+- 🔭 Building mobile & web applications
 - 🌱 Mastering Flutter + Supabase ecosystem
 - 💼 Open to freelance projects & collaborations
+- 🏥 Experience in healthcare and productivity apps
 
 ---
 
@@ -62,7 +71,13 @@ class PaulEstrella {
     'ai': ['Cursor', 'Claude API']
   };
   
-  final String specialization = "Healthcare Apps";
+  final List domains = [
+    'Healthcare apps',
+    'Productivity tools',
+    'Business applications',
+    'Fitness & wellness'
+  ];
+  
   final String approach = "Design → Build → Deploy";
   
   List getValueProposition() {
@@ -70,7 +85,7 @@ class PaulEstrella {
       "Complete products, not just code",
       "Figma designs to production apps",
       "One developer, cohesive solution",
-      "Healthcare domain expertise",
+      "Multiple domain expertise",
       "AI-powered features integration"
     ];
   }
@@ -96,7 +111,7 @@ class PaulEstrella {
 ✅ One developer, complete product — No coordination overhead  
 ✅ Design-first approach — Better UX from day one  
 ✅ Production experience — Real apps with real users  
-✅ Healthcare expertise — COPPA/GDPR compliance  
+✅ Multiple domains — Healthcare, productivity, business tools  
 ✅ AI integration — Modern features with Claude API  
 ✅ Fast iteration — AI-assisted development workflow  
 
@@ -104,18 +119,17 @@ class PaulEstrella {
 
 ## 📬 Let's Connect
 
-📧 **Email:** devopshererd@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/paulestrelladev/
-📍 **Location:** Santo Domingo, DO
-⏰ **Timezone:** GMT-4
+**Email:** devopshererd@gmail.com  
+**LinkedIn:** [linkedin.com/in/paulestrelladev](https://linkedin.com/in/paulestrelladev)  
+**Location:** Dominican Republic  
+**Timezone:** GMT-4
 
 ---
 
 **⭐ Building complete digital products—from design to deployment.**
 
 💬 **Available for freelance projects and collaborations**  
-🎯 **Approach:** Design → Build → Deploy (One developer, cohesive solution)  
-🏥 **Specialty:** Healthcare apps with AI-powered features
+🎯 **Approach:** Design → Build → Deploy (One developer, cohesive solution)
 
 ---
 
