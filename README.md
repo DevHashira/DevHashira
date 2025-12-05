@@ -106,7 +106,6 @@ class PaulEstrella {
 
 📧 **Email:** devopshererd@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/paulestrelladev/
-
 📍 **Location:** Santo Domingo, DO
 ⏰ **Timezone:** GMT-4
 
