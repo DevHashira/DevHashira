@@ -45,7 +45,6 @@ I create complete digital products from design to deployment. My approach combin
 
 - 🔭 Building healthcare mobile applications
 - 🌱 Mastering Flutter + Supabase ecosystem
-- 🌍 Relocating to **Barcelona, Spain** (February 2025)
 - 💼 Open to freelance projects & collaborations
 
 ---
