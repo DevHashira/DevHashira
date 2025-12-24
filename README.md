@@ -1,37 +1,35 @@
 # Hey 👋, I'm Paul Estrella  
 
-**Product Builder | Flutter • Next.js • Supabase**  
-
-I create complete digital products from design to deployment. My approach combines visual design (Figma), mobile development (Flutter), web applications (Next.js), and backend integration (Supabase)—delivering cohesive solutions without coordinating multiple developers.
+**Product-focused Fullstack Developer | React Native • TypeScript • Supabase • Next.js** I create digital products that solve real-world problems through a combination of thoughtful design and solid engineering. My approach integrates visual design (Figma), mobile development (React Native & Expo), and robust backend architectures (Supabase/PostgreSQL)—delivering high-quality, cohesive solutions with a focus on long-term stability.
 
 ---
 
 ## 💼 What I Build
 
-- 📱 **Mobile Apps** — Flutter cross-platform apps (iOS/Android)
-- 🌐 **Web Applications** — Next.js for marketing sites and web apps
-- 🎛️ **Admin Dashboards** — Next.js management panels with real-time data
-- ☁️ **Backend Integration** — Supabase/Firebase for auth, databases, and storage
-- 🎨 **Product Design** — Figma-first approach for better UX
-- 🤖 **AI Integration** — Claude API for intelligent features
+- 📱 **Mobile Apps** — Cross-platform applications using React Native & Expo
+- 🌐 **Web Applications** — High-performance sites and dashboards with Next.js & React
+- 🎛️ **Admin Panels** — Custom management dashboards to control your product ecosystem
+- ☁️ **Backend & Data** — Secure architectures with Supabase, focusing on PostgreSQL data modeling
+- 🎨 **Product Design** — A design-first approach in Figma to ensure excellent UX
+- 🏥 **Impact Solutions** — Developing **EmotiNest**, a dedicated solution for families with special needs
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-### 🔹 Frontend Web
+### 🔹 Frontend Web & Language
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🔹 Backend & Cloud
+### 🔹 Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🔹 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -43,80 +41,40 @@ I create complete digital products from design to deployment. My approach combin
 
 ## 🎯 Currently
 
-- 🔭 Building mobile & web applications
-- 🌱 Mastering Flutter + Supabase ecosystem
-- 💼 Open to freelance projects & collaborations
-- 🏥 Experience in healthcare and productivity apps
+- 🔭 Building scalable mobile and web ecosystems with **TypeScript**
+- 🌱 Deepening my knowledge in software architecture and data structures
+- 💼 Open to **remote opportunities** and freelance contracts (3-6 months)
+- 🏥 Improving **EmotiNest** to provide better support for families
 
 ---
 
 ## 💡 What I Bring
-```dart
+```typescript
 class PaulEstrella {
-  final String role = "Product Builder";
+  readonly role: string = "Fullstack Developer";
+  readonly focus: string = "Product & Engineering Foundations"; //
   
-  final Map> stack = {
-    'mobile': ['Flutter', 'Dart'],
-    'web': ['Next.js', 'React', 'TypeScript'],
-    'backend': ['Supabase', 'Firebase'],
-    'design': ['Figma'],
-    'ai': ['Cursor', 'Claude API']
+  stack = {
+    mobile: ['React Native', 'Expo', 'TypeScript'], //
+    web: ['Next.js', 'React', 'Tailwind'],
+    backend: ['Supabase', 'PostgreSQL'], //
+    design: ['Figma'],
+    ai: ['Cursor', 'Claude']
   };
   
-  final List domains = [
-    'Healthcare apps',
-    'Productivity tools',
-    'Business applications',
-    'Fitness & wellness'
+  values = [
+    "Understanding the 'Why' behind the code", //
+    "User-centric product development",
+    "Solid data modeling & architecture",
+    "Continuous learning & improvement"
   ];
   
-  final String approach = "Design → Build → Deploy";
+  approach = "Design → Architecture → Build → Deploy"; //
   
-  List getValueProposition() {
-    return [
-      "Complete products, not just code",
-      "Figma designs to production apps",
-      "One developer, cohesive solution",
-      "Multiple domain expertise",
-      "AI-powered features integration"
-    ];
+  isAvailableForRemote(): boolean {
+    return true; // Passionate about building great products!
   }
-  
-  bool isAvailable() => true; // Open for projects!
 }
-```
-
----
-
-## 🎨 How I Work
-
-**Design First** → Start with Figma for clear vision  
-**Build Mobile** → Flutter with clean architecture  
-**Add Web** → Next.js landing pages & dashboards  
-**Integrate Backend** → Supabase for data & auth  
-**Deploy** → App Store, Google Play, and web
-
----
-
-## 🌟 Why Work With Me
-
-✅ One developer, complete product — No coordination overhead  
-✅ Design-first approach — Better UX from day one  
-✅ Production experience — Real apps with real users  
-✅ Multiple domains — Healthcare, productivity, business tools  
-✅ AI integration — Modern features with Claude API  
-✅ Fast iteration — AI-assisted development workflow  
-
----
-
-## 📬 Let's Connect
-
-**Email:** devopshererd@gmail.com  
-**LinkedIn:** [linkedin.com/in/paulestrelladev](https://linkedin.com/in/paulestrelladev)  
-**Location:** Dominican Republic  
-**Timezone:** GMT-4
-
----
 
 **⭐ Building complete digital products—from design to deployment.**
 
