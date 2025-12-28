@@ -1,39 +1,43 @@
-# Hey 👋, I'm Paul Estrella  
+# 👋 Hi, I'm Paul Estrella  
 
-**Product-focused Fullstack Developer | React Native • TypeScript • Supabase • Next.js** I create digital products that solve real-world problems through a combination of thoughtful design and solid engineering. My approach integrates visual design (Figma), mobile development (React Native & Expo), and robust backend architectures (Supabase/PostgreSQL)—delivering high-quality, cohesive solutions with a focus on long-term stability.
+**Backend Developer | Python · Django · REST APIs**  
+I build **reliable, well-structured backend systems** that power real-world applications.  
+My focus is on **clean backend architecture, API design, and solid data modeling**, with an emphasis on maintainability and long-term scalability.
+
+I learn best by **building real projects**, understanding how backend systems support products end to end: from business logic and database design to API development.
 
 ---
 
 ## 💼 What I Build
 
-- 📱 **Mobile Apps** — Cross-platform applications using React Native & Expo
-- 🌐 **Web Applications** — High-performance sites and dashboards with Next.js & React
-- 🎛️ **Admin Panels** — Custom management dashboards to control your product ecosystem
-- ☁️ **Backend & Data** — Secure architectures with Supabase, focusing on PostgreSQL data modeling
-- 🎨 **Product Design** — A design-first approach in Figma to ensure excellent UX
-- 🏥 **Impact Solutions** — Developing **EmotiNest**, a dedicated solution for families with special needs
+- ⚙️ **Backend Systems** — REST APIs using Django  
+- 🔐 **Application Logic** — Authentication, permissions, and business rules  
+- 🗄️ **Databases** — Relational data modeling with PostgreSQL  
+- 🔄 **API Integration** — Backend services that support web and mobile clients  
+- 🧠 **Problem-Driven Solutions** — Backend-first thinking to solve real problems  
+
+> My background in product and mobile development helps me design backends that are practical, usable, and aligned with real product needs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+### 🔹 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
-### 🔹 Frontend Web & Language
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### 🔹 Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### 🔹 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
-### 🔹 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🔹 DevOps & Cloud (Basic / Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -41,46 +45,38 @@
 
 ## 🎯 Currently
 
-- 🔭 Building scalable mobile and web ecosystems with **TypeScript**
-- 🌱 Deepening my knowledge in software architecture and data structures
-- 💼 Open to **remote opportunities** and freelance contracts (3-6 months)
-- 🏥 Improving **EmotiNest** to provide better support for families
+- 🔭 Building backend projects with **Python & Django**
+- 🌱 Strengthening my foundation in **backend architecture, APIs, and databases**
+- 🐳 Learning **Docker** for containerized development
+- ☁️ Exploring **AWS (basic)** for application deployment
+- 💼 Open to **entry-level backend roles**, including **remote opportunities**
 
 ---
 
-## 💡 What I Bring
-```typescript
-class PaulEstrella {
-  readonly role: string = "Fullstack Developer";
-  readonly focus: string = "Product & Engineering Foundations"; //
-  
-  stack = {
-    mobile: ['React Native', 'Expo', 'TypeScript'], //
-    web: ['Next.js', 'React', 'Tailwind'],
-    backend: ['Supabase', 'PostgreSQL'], //
-    design: ['Figma'],
-    ai: ['Cursor', 'Claude']
-  };
-  
-  values = [
-    "Understanding the 'Why' behind the code", //
-    "User-centric product development",
-    "Solid data modeling & architecture",
-    "Continuous learning & improvement"
-  ];
-  
-  approach = "Design → Architecture → Build → Deploy"; //
-  
-  isAvailableForRemote(): boolean {
-    return true; // Passionate about building great products!
-  }
-}
+## 💡 How I Work
 
-**⭐ Building complete digital products—from design to deployment.**
+```python
+class PaulEstrella:
+    role = "Backend Developer"
+    focus = "Backend Foundations & API Design"
 
-💬 **Available for freelance projects and collaborations**  
-🎯 **Approach:** Design → Build → Deploy (One developer, cohesive solution)
+    stack = {
+        "language": "Python",
+        "framework": "Django",
+        "apis": "REST",
+        "database": "PostgreSQL",
+        "devops": ["Docker (basic)", "AWS (basic)"],
+        "tools": ["Git", "GitHub", "Claude Code"]
+    }
 
----
+    values = [
+        "Understanding the 'why' behind technical decisions",
+        "Clean and maintainable code",
+        "Well-structured data models",
+        "Continuous learning through real projects"
+    ]
 
-*Last updated: December 2024*
+    approach = "Understand the problem → Design the backend → Build → Improve"
+
+    def open_to_remote_roles(self):
+        return True
