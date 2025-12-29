@@ -1,41 +1,41 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Backend Developer | Python · Django · REST APIs**  
-I build **reliable, well-structured backend systems** that power real-world applications.  
-My focus is on **clean backend architecture, API design, and solid data modeling**, with an emphasis on maintainability and long-term scalability.
+**Mobile Developer | React Native & Expo | TypeScript | Product-Focused App Development**  
+I build **real, user-centered mobile applications** focused on clarity, usability, and long-term maintainability.  
+My work emphasizes **clean UI/UX, well-structured app architecture, and reliable data flows**, turning ideas into functional products people can actually use.
 
-I learn best by **building real projects**, understanding how backend systems support products end to end: from business logic and database design to API development.
+I learn best by **building and publishing real apps**, understanding how mobile products work end to end — from design decisions to implementation and iteration.
 
 ---
 
 ## 💼 What I Build
 
-- ⚙️ **Backend Systems** — REST APIs using Django  
-- 🔐 **Application Logic** — Authentication, permissions, and business rules  
-- 🗄️ **Databases** — Relational data modeling with PostgreSQL  
-- 🔄 **API Integration** — Backend services that support web and mobile clients  
-- 🧠 **Problem-Driven Solutions** — Backend-first thinking to solve real problems  
+- 📱 **Mobile Applications** — Cross-platform apps using React Native & Expo  
+- 🎨 **User Interfaces & UX** — Thoughtful UI design with Figma, focused on real user needs  
+- 🔐 **App Logic & Auth** — Authentication, user flows, and permissions using Supabase  
+- 🔄 **API & Data Integration** — Connecting mobile apps to backend services and databases  
+- 🧠 **Product-Driven Solutions** — Apps designed around real problems, not just features  
 
-> My background in product and mobile development helps me design backends that are practical, usable, and aligned with real product needs.
+> My product-oriented mindset helps me build mobile apps that are practical, usable, and aligned with real-world use cases.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+### 🔹 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-### 🔹 Database
+### 🔹 Language & Web
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### 🔹 Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
-### 🔹 DevOps & Cloud (Basic / Learning)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-### 🔹 Tools
+### 🔹 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -45,38 +45,40 @@ I learn best by **building real projects**, understanding how backend systems su
 
 ## 🎯 Currently
 
-- 🔭 Building backend projects with **Python & Django**
-- 🌱 Strengthening my foundation in **backend architecture, APIs, and databases**
-- 🐳 Learning **Docker** for containerized development
-- ☁️ Exploring **AWS (basic)** for application deployment
-- 💼 Open to **entry-level backend roles**, including **remote opportunities**
+- 🔭 Building and publishing **mobile apps with React Native & Expo**
+- 🌱 Strengthening my foundation in **TypeScript, mobile architecture, and UX**
+- 🧩 Using **Supabase** for authentication and data management
+- 🌐 Building supporting web interfaces with **Next.js** when needed
+- 💼 Open to **entry-level mobile developer roles**, including **remote opportunities**
 
 ---
 
 ## 💡 How I Work
 
-```python
-class PaulEstrella:
-    role = "Backend Developer"
-    focus = "Backend Foundations & API Design"
+```typescript
+class PaulEstrella {
+  role = "Mobile Developer";
+  focus = "Product-Focused Mobile Applications";
 
-    stack = {
-        "language": "Python",
-        "framework": "Django",
-        "apis": "REST",
-        "database": "PostgreSQL",
-        "devops": ["Docker (basic)", "AWS (basic)"],
-        "tools": ["Git", "GitHub", "Claude Code"]
-    }
+  stack = {
+    mobile: ["React Native", "Expo"],
+    language: ["TypeScript"],
+    backend: ["Supabase", "PostgreSQL"],
+    web: ["Next.js"],
+    design: ["Figma"],
+    tools: ["Git", "GitHub", "Claude Code"]
+  };
 
-    values = [
-        "Understanding the 'why' behind technical decisions",
-        "Clean and maintainable code",
-        "Well-structured data models",
-        "Continuous learning through real projects"
-    ]
+  values = [
+    "Understanding the 'why' behind product decisions",
+    "Clean and maintainable code",
+    "Thoughtful user experience",
+    "Building real apps, not just demos"
+  ];
 
-    approach = "Understand the problem → Design the backend → Build → Improve"
+  approach = "Understand the problem → Design the experience → Build → Iterate";
 
-    def open_to_remote_roles(self):
-        return True
+  openToRemoteRoles() {
+    return true;
+  }
+}
