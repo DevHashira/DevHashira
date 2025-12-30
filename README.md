@@ -1,38 +1,38 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Mobile Developer | React Native & Expo | TypeScript | Product-Focused App Development**  
-I build **real, user-centered mobile applications** focused on clarity, usability, and long-term maintainability.  
-My work emphasizes **clean UI/UX, well-structured app architecture, and reliable data flows**, turning ideas into functional products people can actually use.
+**Frontend Developer | Vue.js • Nuxt.js • TypeScript | Product-Focused Web Development**  
+I build **production-ready web applications** with a strong focus on usability, clarity, and long-term maintainability.  
+My work emphasizes **clean component architecture, scalable patterns, and real-world product needs**, turning designs into reliable software.
 
-I learn best by **building and publishing real apps**, understanding how mobile products work end to end — from design decisions to implementation and iteration.
+I learn best by **building real products**, understanding how frontend systems work end to end — from design decisions in Figma to API integration and data-driven UI.
 
 ---
 
 ## 💼 What I Build
 
-- 📱 **Mobile Applications** — Cross-platform apps using React Native & Expo  
-- 🎨 **User Interfaces & UX** — Thoughtful UI design with Figma, focused on real user needs  
-- 🔐 **App Logic & Auth** — Authentication, user flows, and permissions using Supabase  
-- 🔄 **API & Data Integration** — Connecting mobile apps to backend services and databases  
-- 🧠 **Product-Driven Solutions** — Apps designed around real problems, not just features  
+- 🌐 **Web Applications** — Modern, production-ready apps using Vue.js & Nuxt.js  
+- 🎨 **UI & UX Implementation** — Translating Figma designs into clean, maintainable interfaces  
+- 🧩 **Frontend Architecture** — Component structure, state management, and scalable patterns  
+- 🔐 **Auth & Data Integration** — Frontend integration with Supabase and PostgreSQL  
+- 🧠 **Product-Driven Solutions** — Features built around real user problems, not just requirements  
 
-> My product-oriented mindset helps me build mobile apps that are practical, usable, and aligned with real-world use cases.
+> I focus on building frontend applications that are practical, usable, and aligned with real-world use cases.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-### 🔹 Language & Web
+### 🔹 Frontend Web
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### 🔹 Backend & Database
+### 🔹 Backend & Database (Integration)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🔹 Mobile (Personal / Complementary)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 🔹 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -45,40 +45,39 @@ I learn best by **building and publishing real apps**, understanding how mobile 
 
 ## 🎯 Currently
 
-- 🔭 Building and publishing **mobile apps with React Native & Expo**
-- 🌱 Strengthening my foundation in **TypeScript, mobile architecture, and UX**
-- 🧩 Using **Supabase** for authentication and data management
-- 🌐 Building supporting web interfaces with **Next.js** when needed
-- 💼 Open to **entry-level mobile developer roles**, including **remote opportunities**
+- 🔭 Building **frontend web applications** with Vue.js, Nuxt.js, and TypeScript  
+- 🌱 Strengthening my skills in **frontend architecture, state management, and UX**  
+- 🧩 Integrating **Supabase** for authentication and data-driven UI  
+- 🎨 Improving design-to-code workflows using **Figma**  
+- 💼 Open to **entry-level frontend roles**, including **remote opportunities**
 
 ---
 
 ## 💡 How I Work
 
-```typescript
+```ts
 class PaulEstrella {
-  role = "Mobile Developer";
-  focus = "Product-Focused Mobile Applications";
+  role = "Frontend Developer";
+  focus = "Product-Focused Web Applications";
 
   stack = {
-    mobile: ["React Native", "Expo"],
-    language: ["TypeScript"],
+    frontend: ["Vue.js", "Nuxt.js", "TypeScript"],
     backend: ["Supabase", "PostgreSQL"],
-    web: ["Next.js"],
+    mobile: ["Flutter"],
     design: ["Figma"],
     tools: ["Git", "GitHub", "Claude Code"]
   };
 
   values = [
-    "Understanding the 'why' behind product decisions",
-    "Clean and maintainable code",
+    "Understanding the 'why' behind features",
+    "Clean and maintainable frontend code",
     "Thoughtful user experience",
-    "Building real apps, not just demos"
+    "Building real products, not just demos"
   ];
 
-  approach = "Understand the problem → Design the experience → Build → Iterate";
+  approach = "Understand the problem → Design → Build → Iterate";
 
-  openToRemoteRoles() {
+  openToFrontendRoles() {
     return true;
   }
 }
