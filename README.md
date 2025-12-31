@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Frontend Developer | Vue.js • Nuxt.js • TypeScript | Product-Focused Web Development**  
+**Frontend Developer | React • Next.js • TypeScript | Product-Focused Web Development**  
 I build **production-ready web applications** with a strong focus on usability, clarity, and long-term maintainability.  
 My work emphasizes **clean component architecture, scalable patterns, and real-world product needs**, turning designs into reliable software.
 
@@ -10,7 +10,8 @@ I learn best by **building real products**, understanding how frontend systems w
 
 ## 💼 What I Build
 
-- 🌐 **Web Applications** — Modern, production-ready apps using Vue.js & Nuxt.js  
+- 🌐 **Web Applications** — Modern, production-ready apps using React & Next.js  
+- 📱 **Mobile Interfaces** — Cross-platform apps using React Native with Expo  
 - 🎨 **UI & UX Implementation** — Translating Figma designs into clean, maintainable interfaces  
 - 🧩 **Frontend Architecture** — Component structure, state management, and scalable patterns  
 - 🔐 **Auth & Data Integration** — Frontend integration with Supabase and PostgreSQL  
@@ -23,16 +24,17 @@ I learn best by **building real products**, understanding how frontend systems w
 ## 🛠️ Tech Stack
 
 ### 🔹 Frontend Web
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🔹 Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### 🔹 Backend & Database (Integration)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🔹 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 🔹 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -45,7 +47,8 @@ I learn best by **building real products**, understanding how frontend systems w
 
 ## 🎯 Currently
 
-- 🔭 Building **frontend web applications** with Vue.js, Nuxt.js, and TypeScript  
+- 🔭 Building **frontend web applications** with React, Next.js, and TypeScript  
+- 📱 Exploring **mobile development** using React Native with Expo  
 - 🌱 Strengthening my skills in **frontend architecture, state management, and UX**  
 - 🧩 Integrating **Supabase** for authentication and data-driven UI  
 - 🎨 Improving design-to-code workflows using **Figma**  
@@ -61,9 +64,9 @@ class PaulEstrella {
   focus = "Product-Focused Web Applications";
 
   stack = {
-    frontend: ["Vue.js", "Nuxt.js", "TypeScript"],
+    frontend: ["React", "Next.js", "TypeScript"],
+    mobile: ["React Native", "Expo"],
     backend: ["Supabase", "PostgreSQL"],
-    mobile: ["Flutter"],
     design: ["Figma"],
     tools: ["Git", "GitHub", "Claude Code"]
   };
@@ -81,3 +84,4 @@ class PaulEstrella {
     return true;
   }
 }
+
