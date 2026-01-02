@@ -1,87 +1,85 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Frontend Developer | React • Next.js • TypeScript | Product-Focused Web Development**  
-I build **production-ready web applications** with a strong focus on usability, clarity, and long-term maintainability.  
-My work emphasizes **clean component architecture, scalable patterns, and real-world product needs**, turning designs into reliable software.
+**Backend Developer | Python • Django • PostgreSQL | Security-Focused API Development**  
 
-I learn best by **building real products**, understanding how frontend systems work end to end — from design decisions in Figma to API integration and data-driven UI.
+I build **secure, scalable backend systems and APIs** with a strong focus on clean architecture, data integrity, and vulnerability prevention.  
+My work prioritizes **security-first development**, ensuring backend services are reliable, maintainable, and production-ready.
+
+I learn best by **building real backend systems**, understanding how APIs behave in real-world conditions — from authentication and permissions to database design and security testing.
 
 ---
 
 ## 💼 What I Build
 
-- 🌐 **Web Applications** — Modern, production-ready apps using React & Next.js  
-- 📱 **Mobile Interfaces** — Cross-platform apps using React Native with Expo  
-- 🎨 **UI & UX Implementation** — Translating Figma designs into clean, maintainable interfaces  
-- 🧩 **Frontend Architecture** — Component structure, state management, and scalable patterns  
-- 🔐 **Auth & Data Integration** — Frontend integration with Supabase and PostgreSQL  
-- 🧠 **Product-Driven Solutions** — Features built around real user problems, not just requirements  
+- 🔐 **Secure REST APIs** — Backend services built with Python & Django  
+- 🧠 **Authentication & Authorization Systems** — JWT, permissions, and role-based access  
+- 🗄️ **Database-Driven Applications** — PostgreSQL schemas, queries, and optimization  
+- 🧪 **API Testing** — Unit and integration testing with pytest  
+- 🛡️ **Security-Oriented Development** — OWASP Top 10 awareness and secure coding practices  
+- 📄 **Backend Documentation** — Clear API contracts and technical documentation  
 
-> I focus on building frontend applications that are practical, usable, and aligned with real-world use cases.
+> I focus on building backend systems that are **invisible to users but critical to everything they do**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend Web
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 🔹 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
-### 🔹 Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-### 🔹 Backend & Database (Integration)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### 🔹 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🔹 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🔹 Security & Testing
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+### 🔹 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Building **frontend web applications** with React, Next.js, and TypeScript  
-- 📱 Exploring **mobile development** using React Native with Expo  
-- 🌱 Strengthening my skills in **frontend architecture, state management, and UX**  
-- 🧩 Integrating **Supabase** for authentication and data-driven UI  
-- 🎨 Improving design-to-code workflows using **Figma**  
-- 💼 Open to **entry-level frontend roles**, including **remote opportunities**
+- 🔭 Building **secure backend APIs** with Python and Django  
+- 🛡️ Applying **OWASP Top 10 principles** to real projects  
+- 🧪 Strengthening **API testing** with pytest  
+- 🗄️ Improving **PostgreSQL database design and performance**  
+- 🧠 Practicing **security analysis and vulnerability prevention**  
+- 💼 Open to **entry-level backend developer roles**, especially with **security focus** and **remote opportunities**
 
 ---
 
 ## 💡 How I Work
 
-```ts
-class PaulEstrella {
-  role = "Frontend Developer";
-  focus = "Product-Focused Web Applications";
+```python
+class PaulEstrella:
+    role = "Backend Developer"
+    focus = "Secure API Development"
 
-  stack = {
-    frontend: ["React", "Next.js", "TypeScript"],
-    mobile: ["React Native", "Expo"],
-    backend: ["Supabase", "PostgreSQL"],
-    design: ["Figma"],
-    tools: ["Git", "GitHub", "Claude Code"]
-  };
+    stack = {
+        "backend": ["Python", "Django"],
+        "database": ["PostgreSQL"],
+        "security": ["OWASP Top 10", "Secure Coding"],
+        "testing": ["pytest"],
+        "tools": ["Docker", "Git", "Linux"]
+    }
 
-  values = [
-    "Understanding the 'why' behind features",
-    "Clean and maintainable frontend code",
-    "Thoughtful user experience",
-    "Building real products, not just demos"
-  ];
+    values = [
+        "Security-first mindset",
+        "Clean and maintainable backend code",
+        "Understanding how systems fail",
+        "Building real, production-ready APIs"
+    ]
 
-  approach = "Understand the problem → Design → Build → Iterate";
+    approach = "Design → Secure → Build → Test → Improve"
 
-  openToFrontendRoles() {
-    return true;
-  }
-}
+    open_to_backend_roles = True
+
 
