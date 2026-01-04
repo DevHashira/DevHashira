@@ -1,23 +1,23 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Fullstack Developer (Frontend-Focused) | React • Next.js • TypeScript | Building user-centered applications**
+**Frontend Developer | Building Web & Mobile Apps | React · Next.js · React Native · TypeScript**
 
-I build **modern, scalable applications** with a strong focus on **user experience, clarity, and maintainable code**.
+I build **modern, scalable web and mobile applications** with a strong focus on **user experience, clarity, and maintainable frontend code**.
 
-My profile is **fullstack with a strong frontend emphasis**, where I design clean user interfaces while being fully comfortable integrating them with backend systems such as APIs, authentication, and databases.
+My core strength is **frontend development**, where I design clean, intuitive interfaces and ensure they integrate smoothly with real backend systems such as APIs, authentication, and databases.
 
-I enjoy working close to the product, understanding how frontend decisions impact usability, performance, and the overall quality of an application.
+I enjoy working close to the product, understanding how frontend decisions impact usability, performance, and overall product quality — both on web and mobile.
 
 ---
 
 ## 💼 What I Build
 
 - 🎨 **User-Centered Interfaces** — Clean, responsive, and accessible UIs  
-- 🌐 **Modern Web Applications** — React & Next.js with performance and structure in mind  
+- 🌐 **Web Applications** — React & Next.js with structure, performance, and scalability  
 - 📱 **Mobile Applications** — Cross-platform apps with React Native & Expo  
 - 🔗 **API-Driven Features** — Frontends integrated with backend services  
 - 🔐 **Auth & Data Flows** — Authentication, protected routes, and data handling  
-- 🧩 **Component-Based Systems** — Reusable, scalable application architectures  
+- 🧩 **Component-Based Systems** — Reusable, scalable frontend architectures  
 
 > I focus on building applications where UX, frontend quality, and system consistency come together.
 
@@ -46,20 +46,20 @@ I enjoy working close to the product, understanding how frontend decisions impac
 ### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## 🎯 Currently
 
-- 🔨 Building **frontend-focused fullstack projects**
-- 🎨 Improving **UI/UX quality and frontend architecture**
-- 📱 Developing **mobile applications** with React Native & Expo
-- 🔗 Integrating frontends with **APIs and databases**
-- 🎓 Studying **Software Engineering** at **UNICARIBE**
-- 💼 Open to **Frontend**, **Mobile**, or **Frontend-Focused Fullstack** roles
+- 🔨 Building **frontend-focused projects** for web and mobile  
+- 🎨 Improving **UI/UX quality and frontend architecture**  
+- 📱 Developing **mobile applications** with React Native & Expo  
+- 🔗 Integrating frontends with **APIs, authentication, and databases**  
+- 🎓 Studying **Software Engineering** at **UNICARIBE**  
+- 💼 Open to **Frontend Developer (Web)** and **Mobile Developer (React Native)** roles  
 
 ---
 
@@ -67,21 +67,27 @@ I enjoy working close to the product, understanding how frontend decisions impac
 
 ```ts
 const paulEstrella = {
-  role: "Frontend-Focused Fullstack Developer",
-  focus: "User-Centered Applications",
+  role: "Frontend Developer",
+  focus: "Web & Mobile Applications",
 
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     mobile: ["React Native", "Expo"],
-    backend: ["Node.js", "REST APIs", "Authentication", "PostgreSQL", "Supabase"],
+    backendIntegration: [
+      "Node.js",
+      "REST APIs",
+      "Authentication",
+      "PostgreSQL",
+      "Supabase"
+    ],
     tools: ["Git", "Docker", "Vercel", "Figma"]
   },
 
   values: [
     "Clear and intuitive user experiences",
-    "Maintainable and readable code",
+    "Maintainable and readable frontend code",
     "Design-to-code consistency",
-    "Strong collaboration across teams"
+    "Strong collaboration with backend teams"
   ],
 
   approach: "Understand → Build → Iterate",
@@ -89,3 +95,4 @@ const paulEstrella = {
 
   openToRemoteWork: true
 }
+
