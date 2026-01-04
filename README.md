@@ -1,99 +1,91 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Frontend Developer (Web & Mobile) | React • Next.js • React Native (Expo) | User-Focused Interfaces**
+**Fullstack Developer (Frontend-Focused) | React • Next.js • TypeScript | Building user-centered applications**
 
-I build **modern, scalable user interfaces** for **web and mobile applications**, with a strong focus on **UX, performance, and maintainable frontends**.
+I build **modern, scalable applications** with a strong focus on **user experience, clarity, and maintainable code**.
 
-My core strength is **frontend development**, working primarily with **React and Next.js for web** and **React Native with Expo for mobile**, building consistent experiences across platforms.
+My profile is **fullstack with a strong frontend emphasis**, where I design clean user interfaces while being fully comfortable integrating them with backend systems such as APIs, authentication, and databases.
 
-I have a solid understanding of **backend concepts** (APIs, authentication, databases), which allows me to collaborate effectively with backend teams and integrate frontend applications smoothly into real-world systems.
-
-I learn best by **building complete products**, focusing on how users interact with interfaces and how frontend decisions impact usability, performance, and product quality.
+I enjoy working close to the product, understanding how frontend decisions impact usability, performance, and the overall quality of an application.
 
 ---
 
 ## 💼 What I Build
 
-- 🎨 **User Interfaces (Web & Mobile)** — Clean, responsive, and accessible UIs  
+- 🎨 **User-Centered Interfaces** — Clean, responsive, and accessible UIs  
+- 🌐 **Modern Web Applications** — React & Next.js with performance and structure in mind  
 - 📱 **Mobile Applications** — Cross-platform apps with React Native & Expo  
-- 🌐 **Web Applications** — Frontend apps using React & Next.js  
-- 🔗 **API Integration** — Consuming REST APIs and backend services  
-- 🧠 **UX-Focused Development** — Translating designs into usable interfaces  
-- 🧩 **Component-Based Systems** — Reusable, scalable UI components  
+- 🔗 **API-Driven Features** — Frontends integrated with backend services  
+- 🔐 **Auth & Data Flows** — Authentication, protected routes, and data handling  
+- 🧩 **Component-Based Systems** — Reusable, scalable application architectures  
 
-> I focus on frontend systems that are predictable, user-friendly, and easy to evolve over time.
+> I focus on building applications where UX, frontend quality, and system consistency come together.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend (Web)
+### 🔹 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
 
-### 🔹 Frontend (Mobile)
+### 🔹 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-### 🔹 Backend & Database (Integration-Level)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### 🔹 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square)
+![Authentication](https://img.shields.io/badge/Auth-4CAF50?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### 🔹 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🔹 AI-Assisted Development
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-
-> I use **Claude Code** to accelerate problem-solving, improve code quality, and explore implementation options — while maintaining full understanding and ownership of the code I ship.
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Building **web and mobile frontends** with React, Next.js, and React Native  
-- 🎨 Translating **Figma designs into real products**  
-- 🔗 Integrating frontends with **Supabase and REST APIs**  
-- 📱 Developing **cross-platform mobile apps** with Expo  
-- 🎓 Studying **Software Engineering** at **UNICARIBE**  
-- 💼 Open to **Frontend Web Developer** and **Mobile Developer (React Native)** roles, including **remote opportunities**
+- 🔨 Building **frontend-focused fullstack projects**
+- 🎨 Improving **UI/UX quality and frontend architecture**
+- 📱 Developing **mobile applications** with React Native & Expo
+- 🔗 Integrating frontends with **APIs and databases**
+- 🎓 Studying **Software Engineering** at **UNICARIBE**
+- 💼 Open to **Frontend**, **Mobile**, or **Frontend-Focused Fullstack** roles
 
 ---
 
-## 💡 How I Work
+## 💡 How I Approach Development
 
 ```ts
-class PaulEstrella {
-  role = "Frontend Developer (Web & Mobile)"
-  focus = "User-Focused Interfaces"
+const paulEstrella = {
+  role: "Frontend-Focused Fullstack Developer",
+  focus: "User-Centered Applications",
 
-  stack = {
-    web: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     mobile: ["React Native", "Expo"],
-    backendIntegration: ["Supabase", "PostgreSQL", "REST APIs"],
-    design: ["Figma"],
-    tools: ["Git", "GitHub", "Docker", "Claude Code"]
-  }
+    backend: ["Node.js", "REST APIs", "Authentication", "PostgreSQL", "Supabase"],
+    tools: ["Git", "Docker", "Vercel", "Figma"]
+  },
 
-  values = [
+  values: [
     "Clear and intuitive user experiences",
-    "Clean, maintainable frontend code",
+    "Maintainable and readable code",
     "Design-to-code consistency",
-    "Collaboration with backend teams"
-  ]
+    "Strong collaboration across teams"
+  ],
 
-  frontend_focus = "80%"
-  backend_understanding = "20%"
+  approach: "Understand → Build → Iterate",
+  personality: "INFJ-A",
 
-  approach = "Design → Build → Test → Iterate"
-
-  open_to_frontend_and_mobile_roles = True
+  openToRemoteWork: true
 }
-
-
-
