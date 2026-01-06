@@ -39,11 +39,15 @@ I enjoy working close to the product, understanding how mobile decisions impact 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### 🔹 Tools
+### 🔹 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### 🔹 Mobile Development
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ---
 
@@ -70,6 +74,7 @@ const paulEstrella = {
     web: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     backend: ["Firebase", "Supabase"],
     tools: ["Git", "GitHub", "Vercel", "Figma"]
+    development: ["Xcode", "AndroidStudio"]
   },
 
   values: [
