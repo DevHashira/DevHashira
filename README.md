@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Frontend Developer | React • Next.js • React Native • TypeScript**
+**Full-Stack Developer | React • Next.js • React Native • TypeScript**
 
 I build **modern web and mobile applications** using React, Next.js, React Native, and TypeScript, creating seamless user experiences across all platforms.
 
