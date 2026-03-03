@@ -13,7 +13,7 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ## 💼 What I Build
 
 - 🏥 **Healthcare Applications** — Apps for neurodivergent families and accessibility needs  
-- 📱 **Cross-Platform Mobile** — iOS & Android with Flutter  
+- 📱 **Cross-Platform Mobile** — iOS & Android with React Native & Flutter  
 - 🤖 **AI-Powered Features** — Conversational AI and intelligent assistance  
 - ♿ **Accessibility Solutions** — AAC communication and sensory navigation  
 - 📊 **Data-Driven Tools** — Tracking, patterns, and predictive insights  
@@ -26,8 +26,11 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ## 🛠️ Tech Stack
 
 ### 🔹 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### 🔹 Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -62,38 +65,38 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ---
 
 ## 💡 How I Approach Development
-```dart
-class PaulEstrella {
-  final String role = "Mobile Developer - Healthcare Tech";
-  final String focus = "Neurodivergent Families & Accessibility";
+```typescript
+const paulEstrella = {
+  role: "Mobile Developer - Healthcare Tech",
+  focus: "Neurodivergent Families & Accessibility",
 
-  final Map<String, List<String>> stack = {
-    'mobile': ['Flutter', 'Dart', 'iOS', 'Android'],
-    'backend': ['Supabase', 'Firebase', 'REST APIs'],
-    'ai': ['Conversational AI', 'API Integration'],
-    'deployment': ['App Store', 'Google Play']
-  };
+  stack: {
+    mobile: ["React Native", "Flutter", "TypeScript", "Dart", "Expo"],
+    backend: ["Supabase", "Firebase", "REST APIs"],
+    ai: ["Conversational AI", "API Integration"],
+    deployment: ["App Store", "Google Play"]
+  },
 
-  final List<String> expertise = [
+  expertise: [
     "Healthcare mobile applications",
     "Accessibility and AAC solutions",
     "AI integration in mobile apps",
     "Cross-platform development (iOS & Android)",
     "Backend integration and data management",
     "User-centered design for diverse needs"
-  ];
+  ],
 
-  final List<String> differentiators = [
+  differentiators: [
     "Father of two autistic children",
     "Deep domain knowledge in neurodiversity",
     "Building apps I personally need"
-  ];
+  ],
 
-  final String approach = "Understand → Build → Ship → Iterate";
-  final String personality = "INFJ-A";
+  approach: "Understand → Build → Ship → Iterate",
+  personality: "INFJ-A",
 
-  final bool openToRemoteWork = true;
-  final String location = "Dominican Republic";
+  openToRemoteWork: true,
+  location: "Dominican Republic"
 }
 ```
 
