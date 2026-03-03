@@ -13,13 +13,13 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ## 💼 What I Build
 
 - 🏥 **Healthcare Applications** — Apps for neurodivergent families and accessibility needs  
-- 📱 **Cross-Platform Mobile** — iOS & Android with React Native & Flutter  
+- 📱 **Cross-Platform Mobile** — iOS & Android with React Native & Expo  
+- 🌐 **Web Dashboards** — Admin panels and data visualization with Next.js  
 - 🤖 **AI-Powered Features** — Conversational AI and intelligent assistance  
 - ♿ **Accessibility Solutions** — AAC communication and sensory navigation  
 - 📊 **Data-Driven Tools** — Tracking, patterns, and predictive insights  
-- 🎨 **User-Centered Design** — Intuitive interfaces for diverse needs  
 
-> I build mobile apps where healthcare expertise, accessibility, and technical execution come together.
+> I build mobile apps and web tools where healthcare expertise, accessibility, and technical execution come together.
 
 ---
 
@@ -27,10 +27,13 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 
 ### 🔹 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+### 🔹 Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔹 Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -48,6 +51,7 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ### 🔹 Deployment Platforms
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
 
@@ -57,6 +61,7 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 
 - 🏥 Building **healthcare mobile apps** for neurodivergent families  
 - 📱 Developing **AAC communication** and **sensory navigation** solutions  
+- 🌐 Creating **admin dashboards** for data management and analytics  
 - 🤖 Implementing **AI-powered features** in mobile applications  
 - ♿ Specializing in **accessibility** and **healthcare technology**  
 - 🎓 Studying **Software Engineering** at **UNICARIBE**  
@@ -71,10 +76,11 @@ const paulEstrella = {
   focus: "Neurodivergent Families & Accessibility",
 
   stack: {
-    mobile: ["React Native", "Flutter", "TypeScript", "Dart", "Expo"],
+    mobile: ["React Native", "TypeScript", "Expo"],
+    web: ["Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Supabase", "Firebase", "REST APIs"],
     ai: ["Conversational AI", "API Integration"],
-    deployment: ["App Store", "Google Play"]
+    deployment: ["Vercel", "App Store", "Google Play"]
   },
 
   expertise: [
@@ -82,6 +88,7 @@ const paulEstrella = {
     "Accessibility and AAC solutions",
     "AI integration in mobile apps",
     "Cross-platform development (iOS & Android)",
+    "Admin dashboards and data visualization",
     "Backend integration and data management",
     "User-centered design for diverse needs"
   ],
