@@ -1,109 +1,125 @@
 # 👋 Hi, I'm Paul Estrella  
 
-**Full-Stack Developer | React • Next.js • React Native • TypeScript**
+**Mobile Developer - Healthcare Tech | iOS & Android**
 
-I build **modern web and mobile applications** using React, Next.js, React Native, and TypeScript, creating seamless user experiences across all platforms.
+I build **healthcare mobile applications** for families with neurodivergent children (autism, ADHD, Asperger's).
 
-I specialize in **frontend development** with cross-platform capability, building responsive web applications and native mobile experiences while maintaining clean architecture and strong backend integration.
+As a father of two autistic children, I understand the challenges these families face. I create mobile solutions for emotional regulation, communication, and sensory navigation.
 
-I focus on creating products where great UX, code quality, and modern development practices come together.
+I specialize in **mobile development** with deep healthcare and accessibility expertise, building apps that solve real problems for real families.
 
 ---
 
 ## 💼 What I Build
 
-- 🌐 **Web Applications** — Responsive, performant apps with React & Next.js  
-- 📱 **Mobile Applications** — Cross-platform apps with React Native & Expo  
-- 🎨 **User-Centered Interfaces** — Clean, intuitive, accessible experiences  
-- 🔗 **Full-Stack Features** — Frontend integrated with APIs, auth, and databases  
-- 🤖 **AI-Powered Solutions** — Intelligent features with API integrations  
-- 🧩 **Component Systems** — Reusable, scalable, maintainable architectures  
+- 🏥 **Healthcare Applications** — Apps for neurodivergent families and accessibility needs  
+- 📱 **Cross-Platform Mobile** — iOS & Android with Flutter  
+- 🤖 **AI-Powered Features** — Conversational AI and intelligent assistance  
+- ♿ **Accessibility Solutions** — AAC communication and sensory navigation  
+- 📊 **Data-Driven Tools** — Tracking, patterns, and predictive insights  
+- 🎨 **User-Centered Design** — Intuitive interfaces for diverse needs  
 
-> I build applications where frontend excellence meets modern development workflows.
+> I build mobile apps where healthcare expertise, accessibility, and technical execution come together.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend (Web)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### 🔹 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+### 🔹 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### 🔹 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🔹 Tools & Workflow
+### 🔹 AI & Integration
+![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🔹 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### 🔹 Development Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+### 🔹 Deployment Platforms
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
 
 ---
 
 ## 🎯 Currently
 
-- 🔨 Building **production-ready web applications** with React & Next.js  
-- 📱 Developing **cross-platform mobile apps** with React Native  
-- 🤖 Integrating **AI-powered features** using modern APIs  
-- 🎨 Crafting **exceptional user experiences** across platforms  
-- 🔗 Working with **modern backend services** and authentication flows  
+- 🏥 Building **healthcare mobile apps** for neurodivergent families  
+- 📱 Developing **AAC communication** and **sensory navigation** solutions  
+- 🤖 Implementing **AI-powered features** in mobile applications  
+- ♿ Specializing in **accessibility** and **healthcare technology**  
 - 🎓 Studying **Software Engineering** at **UNICARIBE**  
-- 💼 Open to **Frontend Developer** and **React Native Developer** roles  
+- 💼 Open to **remote opportunities** in healthcare tech and accessibility  
 
 ---
 
 ## 💡 How I Approach Development
-```typescript
-const paulEstrella = {
-  role: "Frontend Developer",
-  focus: "Web & Mobile Applications",
+```dart
+class PaulEstrella {
+  final String role = "Mobile Developer - Healthcare Tech";
+  final String focus = "Neurodivergent Families & Accessibility";
 
-  stack: {
-    web: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    mobile: ["React Native", "Expo", "TypeScript"],
-    backend: ["Node.js", "Firebase", "Supabase"],
-    tools: ["Git", "GitHub", "Vercel", "Figma", "VS Code"]
-  },
+  final Map<String, List<String>> stack = {
+    'mobile': ['Flutter', 'Dart', 'iOS', 'Android'],
+    'backend': ['Supabase', 'Firebase', 'REST APIs'],
+    'ai': ['Conversational AI', 'API Integration'],
+    'deployment': ['App Store', 'Google Play']
+  };
 
-  expertise: [
-    "Responsive web applications",
-    "Cross-platform mobile apps",
-    "Modern React patterns and hooks",
-    "TypeScript-first development",
-    "API integration and state management",
-    "Component-based architecture"
-  ],
+  final List<String> expertise = [
+    "Healthcare mobile applications",
+    "Accessibility and AAC solutions",
+    "AI integration in mobile apps",
+    "Cross-platform development (iOS & Android)",
+    "Backend integration and data management",
+    "User-centered design for diverse needs"
+  ];
 
-  values: [
-    "User-centered design and development",
-    "Clean, maintainable, readable code",
-    "Modern development practices",
-    "Continuous learning and improvement"
-  ],
+  final List<String> differentiators = [
+    "Father of two autistic children",
+    "Deep domain knowledge in neurodiversity",
+    "Building apps I personally need"
+  ];
 
-  approach: "Learn → Build → Ship → Iterate",
-  personality: "INFJ-A",
+  final String approach = "Understand → Build → Ship → Iterate";
+  final String personality = "INFJ-A";
 
-  currentlyLearning: [
-    "Advanced React patterns",
-    "AI integration in applications",
-    "Full-stack development with Next.js"
-  ],
-
-  openToRemoteWork: true,
-  location: "Dominican Republic"
+  final bool openToRemoteWork = true;
+  final String location = "Dominican Republic";
 }
 ```
+
+---
+
+## 🌟 What Sets Me Apart
+
+I don't just build healthcare apps — I live the challenges my users face.
+
+- **Authentic Understanding** — Real experience with neurodivergent needs  
+- **User Empathy** — Building tools families actually need  
+- **Healthcare Focus** — Specialized in accessibility and neurodiversity tech  
+- **Product Mindset** — Apps that solve real problems, not technical exercises  
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulestrelladev/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devopshererd.com/)
+
+**Open to remote opportunities in:**
+- Healthcare technology companies
+- Accessibility and assistive tech
+- Products for neurodivergent communities
+
+---
+
+*Building mobile apps that help neurodivergent families thrive.* 🧩
