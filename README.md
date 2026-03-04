@@ -13,7 +13,7 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ## 💼 What I Build
 
 - 🏥 **Healthcare Applications** — Apps for neurodivergent families and accessibility needs  
-- 📱 **Cross-Platform Mobile** — iOS & Android with React Native & Expo  
+- 📱 **Cross-Platform Mobile** — iOS & Android with Flutter & Dart  
 - 🌐 **Web Dashboards** — Admin panels and data visualization with Next.js  
 - 🤖 **AI-Powered Features** — Conversational AI and intelligent assistance  
 - ♿ **Accessibility Solutions** — AAC communication and sensory navigation  
@@ -26,9 +26,8 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ## 🛠️ Tech Stack
 
 ### 🔹 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### 🔹 Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -40,7 +39,7 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### 🔹 AI & Integration
-![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-412991?style=flat-square&logo=anthropic&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🔹 Tools & Deployment
@@ -65,25 +64,25 @@ I specialize in **mobile development** with deep healthcare and accessibility ex
 - 🤖 Implementing **AI-powered features** in mobile applications  
 - ♿ Specializing in **accessibility** and **healthcare technology**  
 - 🎓 Studying **Software Engineering** at **UNICARIBE**  
-- 💼 Open to **remote opportunities** in healthcare tech and accessibility  
+- 💼 Open to **remote opportunities** in mobile development  
 
 ---
 
 ## 💡 How I Approach Development
-```typescript
-const paulEstrella = {
-  role: "Mobile Developer - Healthcare Tech",
-  focus: "Neurodivergent Families & Accessibility",
+```dart
+final paulEstrella = {
+  "role": "Mobile Developer - Healthcare Tech",
+  "focus": "Neurodivergent Families & Accessibility",
 
-  stack: {
-    mobile: ["React Native", "TypeScript", "Expo"],
-    web: ["Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Supabase", "Firebase", "REST APIs"],
-    ai: ["Conversational AI", "API Integration"],
-    deployment: ["Vercel", "App Store", "Google Play"]
+  "stack": {
+    "mobile": ["Flutter", "Dart"],
+    "web": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "backend": ["Supabase", "Firebase", "REST APIs"],
+    "ai": ["Claude API (Anthropic)", "Conversational AI"],
+    "deployment": ["Vercel", "App Store", "Google Play"]
   },
 
-  expertise: [
+  "expertise": [
     "Healthcare mobile applications",
     "Accessibility and AAC solutions",
     "AI integration in mobile apps",
@@ -93,18 +92,18 @@ const paulEstrella = {
     "User-centered design for diverse needs"
   ],
 
-  differentiators: [
+  "differentiators": [
     "Father of two autistic children",
     "Deep domain knowledge in neurodiversity",
     "Building apps I personally need"
   ],
 
-  approach: "Understand → Build → Ship → Iterate",
-  personality: "INFJ-A",
+  "approach": "Understand → Build → Ship → Iterate",
+  "personality": "INFJ-A",
 
-  openToRemoteWork: true,
-  location: "Dominican Republic"
-}
+  "openToRemoteWork": true,
+  "location": "Dominican Republic"
+};
 ```
 
 ---
@@ -124,12 +123,3 @@ I don't just build healthcare apps — I live the challenges my users face.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulestrelladev/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devopshererd.com/)
-
-**Open to remote opportunities in:**
-- Healthcare technology companies
-- Accessibility and assistive tech
-- Products for neurodivergent communities
-
----
-
-*Building mobile apps that help neurodivergent families thrive.* 🧩
