@@ -33,10 +33,12 @@ I combine UX, UI, and prototyping to turn ideas into functional products that ca
 
 ## 🛠️ Tools & Technologies
 
-- Figma  
-- Flutter  
-- Supabase  
-- AI APIs (OpenAI / Claude)  
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-412991?style=flat-square)
 
 ---
 
@@ -51,3 +53,4 @@ I combine UX, UI, and prototyping to turn ideas into functional products that ca
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/paulestrellapm/)
+[Portfolio](https://www.devopshererd.com/)
