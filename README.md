@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Paul Estrella
 
-**Product Designer | UX/UI | Mobile Apps | MVP Prototyping**
+**Frontend Developer | Product-Focused | UX/UI | Web & Mobile Apps**
 
-I design and build digital products focused on mobile experiences.
+I build digital products focused on real user problems.
 
-I combine UX, UI, and prototyping to turn ideas into functional products that can be tested and improved quickly. My approach is centered on understanding user problems, simplifying flows, and creating clear, usable interfaces.
+I combine frontend development, UX/UI design, and product thinking to turn ideas into functional applications that can be tested and improved quickly. My approach is centered on understanding user needs, simplifying flows, and creating usable, real-world solutions.
 
 ---
 
@@ -12,9 +12,9 @@ I combine UX, UI, and prototyping to turn ideas into functional products that ca
 
 ### EmotiNest — Emotional Support App for Neurodivergent Families
 
-- Designed and built a mobile app based on real user needs  
+- Designed and built a real product based on user needs  
 - Live on the iOS App Store with active users  
-- Focused on improving emotional support through simple, guided interactions  
+- Focused on improving emotional support through simple interactions  
 - Iterated based on real-world feedback  
 - Currently expanding to Android  
 
@@ -24,32 +24,37 @@ I combine UX, UI, and prototyping to turn ideas into functional products that ca
 
 ## 🧠 What I Do
 
-- UX/UI design for mobile apps  
-- User flows and product thinking  
+- Frontend development (React / mobile-focused)  
+- UX/UI design for web and mobile apps  
+- Product thinking from idea to implementation  
 - Prototyping and MVP development  
-- Turning ideas into testable products  
+- Building real, testable products  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
 ---
 
 ## 🎯 Currently
 
-- Improving EmotiNest product experience  
-- Building new MVP concepts  
-- Open to Product Designer roles and freelance projects  
+- Improving EmotiNest product and UX  
+- Building web & mobile applications  
+- Learning and applying modern frontend + product workflows  
+- Open to Frontend Developer roles and freelance projects  
 
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/paulestrellapm/)
+[LinkedIn](https://www.linkedin.com/in/paulestrellapm/)  
 [Portfolio](https://www.devopshererd.com/)
