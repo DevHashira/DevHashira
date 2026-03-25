@@ -47,10 +47,3 @@ Specializing in Health Tech and Social Impact.
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/paulestrellapm/) · [Portfolio](https://www.devopshererd.com/)
 ```
-
----
-
-## Bio de GitHub (150 caracteres máx)
-```
-Product Manager · AI & Mobile | Founder @EmotiNest — Health Tech app 
-for neurodivergent families | Building products that matter
