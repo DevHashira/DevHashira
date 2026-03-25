@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Paul Estrella
-**Mobile App Developer | UX/UI Design | Health Tech | Founder of EmotiNest**
+**Mobile Developer | UX/UI Design | Health Tech | Founder of EmotiNest**
 
 I design and build mobile apps from idea to App Store.
 
