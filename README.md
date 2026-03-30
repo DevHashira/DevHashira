@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Paul Estrella
-**Mobile Developer · UI/UX | Founder of EmotiNest**
+**Product Manager · Health Tech | Founder of EmotiNest**
 
-I build production-ready Flutter apps for Health Tech — 
-from architecture and UI/UX to App Store launch.
+I build AI-powered products for Health Tech — from product 
+discovery and UX/UI to launch and growth.
 
 ---
 
 ## 🚀 Featured Project
 
 ### EmotiNest — Emotional Support App for Neurodivergent Families
-- Built end-to-end with Flutter: Clean Architecture, Riverpod, GoRouter
+- Led end-to-end product management from discovery to App Store launch
 - Integrated AI guidance (EmotiCoach) using Claude API
-- Subscription infrastructure via RevenueCat (iOS + Android)
+- Subscription infrastructure via RevenueCat ($19.99/month, 200+ users)
 - Live on iOS App Store · Expanding to Android
 
 🔗 [myemotinest.com](https://myemotinest.com)
@@ -19,20 +19,25 @@ from architecture and UI/UX to App Store launch.
 ---
 
 ## 🛠️ Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
 
 ---
 
 ## 🎯 Currently
+
 - Expanding EmotiNest to Android
 - Building an AAC app for non-verbal children
-- Open to remote Mobile Developer roles in Health Tech
+- Open to remote Product Manager roles in Health Tech
 
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/paulestrellapm/) · [Portfolio](https://www.devopshererd.com/)
+
+[LinkedIn](https://www.linkedin.com/in/paulestrellapm/) · 
+[Portfolio](https://www.devopshererd.com/)
