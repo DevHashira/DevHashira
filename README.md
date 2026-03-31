@@ -1,49 +1,36 @@
 # 👋 Hi, I'm Paul Estrella
-**Data Analyst · Health Tech | AI Product Builder | Founder @ EmotiNest**
+**AI Product Engineer | Health Tech Founder @ EmotiNest**
 
-I analyze health data and build AI-powered products for Health Tech — 
-from data insights to product discovery, UX/UI, and launch.
-
----
-
-## 🚀 Featured Project
-
-### EmotiNest — Emotional Support App for Neurodivergent Families
-- Led end-to-end product management from discovery to App Store launch
-- Integrated AI guidance (EmotiCoach) using Claude API
-- Subscription infrastructure via RevenueCat ($19.99/month, 200+ users)
-- Live on iOS App Store · Expanding to Android
-
-🔗 [myemotinest.com](https://myemotinest.com)
+I specialize in **Agentic AI** and **Rapid Prototyping** to transform complex health challenges into functional, user-centered products at high velocity. My focus is on **AI-assisted development**, prioritizing software architecture and product logic to deliver scalable solutions.
 
 ---
 
-## 🛠️ Stack
+## 🚀 Featured Project: [EmotiNest](https://myemotinest.com)
+**A Health Tech solution for neurodivergent families.**
+- **Engineering:** Built end-to-end using AI-assisted workflows (Claude API + Flutter).
+- **Intelligence:** Implemented **Agentic AI** for personalized emotional guidance (EmotiCoach).
+- **Infrastructure:** Scalable backend using Supabase and subscription management via RevenueCat.
+- **Status:** Live on the iOS App Store with active users and real-world validation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+---
+
+## 🛠️ Tech Stack
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🎯 Currently
-
-- Building health data analytics portfolio in Health Tech
-- Expanding EmotiNest to Android
-- Building an AAC app for non-verbal children
-- Open to remote Data Analyst roles in Health Tech
+## 🎯 Current Focus
+- **Product:** Developing an AI-powered **AAC (Augmentative and Alternative Communication)** tool to empower non-verbal children.
+- **Specialization:** Mastering **Agentic AI** workflows, Model Context Protocol (MCP), and robust software architectures.
+- **Mission:** Engineering tools that bridge communication gaps and improve quality of life in healthcare environments.
 
 ---
 
 ## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/paulestrellapm/) · 
-[Portfolio](https://www.devopshererd.com/)
+[LinkedIn](https://www.linkedin.com/in/paulestrellapm/) · [Portfolio](https://www.devopshererd.com/)
