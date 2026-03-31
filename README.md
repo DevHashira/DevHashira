@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Paul Estrella
-**Technical Product Manager · Health Tech | Founder of EmotiNest**
+**AI Product Manager · Health Tech | Founder of EmotiNest**
 
 I build AI-powered products for Health Tech — from product 
 discovery and UX/UI to launch and growth.
