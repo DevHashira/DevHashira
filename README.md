@@ -1,38 +1,49 @@
 # 👋 Hi, I'm Paul Estrella
-**Product Designer · Health Tech | Founder @ EmotiNest**
+**Product Designer | AI-Powered HealthTech | Built & Launched EmotiNest**
 
-I design AI-powered products for Health Tech — from user research 
-and UX/UI to launch and growth.
+I design and launch digital products — combining user research, UX, data, and AI 
+to solve real human problems. My work focuses on creating decision-driven 
+experiences, especially in HealthTech.
 
 ---
 
-## 🚀 Featured Project: [EmotiNest](https://myemotinest.com)
-**Emotional support app for parents of neurodivergent children.**
+## 🚀 Featured Project: EmotiNest
+**Emotional support app for parents of neurodivergent children**
 
-- Conducted user research and validation with parents of neurodivergent children
-- Designed end-to-end UX/UI — flows, interactions, and visual design system
-- Integrated AI guidance (EmotiCoach) using Claude API
-- Subscription infrastructure via RevenueCat ($19.99/month, active paying users)
-- Live on iOS App Store · Expanding to Android
+- Conducted user research with parents to validate real-world emotional needs
+- Designed end-to-end product experience — user flows, interaction design, and UI system
+- Built and launched a subscription-based mobile app with active paying users
+- Integrated AI guidance (EmotiCoach) using Claude API for real-time support
+- Translated emotional data into actionable insights for parents
+- Designed for high-stress scenarios, prioritizing clarity and ease of use
+
+📱 Live on iOS App Store · Expanding to Android
 
 ---
 
 ## 🛠️ Stack
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### 🎨 Product & Design
+- Figma (UX/UI, Design Systems, Prototyping)
+
+### 💻 Product Execution
+- Flutter (Mobile Development)
+- Supabase (Backend & Database)
+
+### 🤖 AI Integration
+- Claude API (AI-powered product features)
+
+### 📊 Data & Analytics
+- PostHog (Product Analytics)
+- SQL (User behavior analysis)
 
 ---
 
 ## 🎯 Currently
 
-- Building an AAC app for non-verbal children
-- Studying UX/UI design and Anthropic Academy
-- Open to remote Product Designer roles in Health Tech
+- Building an AAC app for non-verbal children (AI-assisted development)
+- Applying product analytics to improve retention and engagement in HealthTech
+- Studying UX/UI design and Anthropic Academy certifications
 
 ---
 
