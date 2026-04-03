@@ -24,18 +24,18 @@ experiences, especially in HealthTech.
 ## 🛠️ Stack
 
 ### 🎨 Product & Design
-- Figma (UX/UI, Design Systems, Prototyping)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### 💻 Product Execution
-- Flutter (Mobile Development)
-- Supabase (Backend & Database)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### 🤖 AI Integration
-- Claude API (AI-powered product features)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
 
 ### 📊 Data & Analytics
-- PostHog (Product Analytics)
-- SQL (User behavior analysis)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
