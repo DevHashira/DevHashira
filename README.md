@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Paul Estrella
-**Product Designer | AI-Powered HealthTech | Built & Launched EmotiNest**
+**Product Designer (AI-Native) | AI Solutions Architect | Founder @ EmotiNest**
 
 I design and launch digital products — combining user research, UX, data, and AI 
 to solve real human problems. My work focuses on creating decision-driven 
