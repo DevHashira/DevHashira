@@ -34,8 +34,10 @@ experiences, especially in HealthTech.
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
 
 ### 📊 Data & Analytics
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
+
 
 ---
 
