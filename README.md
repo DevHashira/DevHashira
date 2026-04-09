@@ -34,7 +34,7 @@ neurodivergent children. Live on iOS & Android.**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 
 ### 📱 Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
