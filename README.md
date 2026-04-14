@@ -53,15 +53,4 @@ neurodivergent children. Live on iOS & Android.**
 
 ---
 
-## 📚 Currently Learning
-
-| Skill | Resource | Status |
-|---|---|---|
-| UX Research & Design Thinking | UX/UI + Figma 2026 — Udemy | 🟢 Active |
-| Visual & Interface Design | UI Design with Figma 2026 — Udemy | 🔜 Next |
-| Daily design practice | Daily UI Challenge | 🟢 Active |
-| Product case studies | EmotiNest documentation | 🟢 Active |
-
----
-
 ## 🎯 Road to Senior Product Designer
