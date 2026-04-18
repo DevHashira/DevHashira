@@ -45,4 +45,7 @@ neurodivergent children. Live on iOS & Android.**
 
 ---
 
-## 🎯 Roadmap
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![EmotiNest](https://img.shields.io/badge/EmotiNest-7B1FA2?style=flat-square)](https://myemotinest.com)
