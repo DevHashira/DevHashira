@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Paul Estrella
-**Data Analyst · Founder @ EmotiNest · HealthTech**
 
-I turn raw data into stories that drive decisions —
-not just dashboards, but insights that change
-how real people understand their world.
+**Product Designer · Founder @ EmotiNest · AI-Powered Products**
+
+I design digital products that solve real human problems.
+My work combines product thinking, UX research, and AI tools
+to build experiences that are functional — and meaningful
+to the people using them.
 
 ---
 
@@ -12,40 +14,57 @@ how real people understand their world.
 **AI-powered HealthTech platform for families raising
 neurodivergent children. Live on iOS & Android.**
 
-| What I analyzed | How |
+| What I did | How |
 |---|---|
-| User behavior & retention patterns | Firebase + Supabase analytics |
-| Subscription & churn data | RevenueCat metrics |
-| AI coaching engagement | EmotiCoach usage tracking |
-| Trial conversion rates | A/B data across iOS & Android |
-| Multilingual usage patterns | ES/EN behavioral data |
+| Full UX & interaction design | Low cognitive load as core principle |
+| Information architecture | Register → Analyze → Act cycle |
+| AI system design | EmotiCoach via Claude API + LLMs |
+| Clinical reporting | Exportable reports for therapists & neurologists |
+| End-to-end delivery | Concept → production on iOS & Android |
 
 👉 [myemotinest.com](https://www.myemotinest.com/)
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tools & Stack
 
-### 📊 Data Analysis — Core
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### 🎨 Design — Core
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Maze](https://img.shields.io/badge/Maze-FF4F4F?style=flat-square)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-### 📈 Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+### 🤖 AI & Product
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
 
-### 🗄️ Data Infrastructure
+### 📊 Analytics & Research
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat-square)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+### ⚙️ Development — Supporting
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+---
+
+## 📚 Currently Learning
+
+| Skill | Resource | Status |
+|---|---|---|
+| UX Research & Design Thinking | UX/UI + Figma 2026 — Udemy | 🟢 Active |
+| Visual & Interface Design | UI Design with Figma 2026 — Udemy | 🔜 Next |
+| Daily design practice | Daily UI Challenge | 🟢 Active |
+| Product case studies | EmotiNest documentation | 🟢 Active |
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulestrellapm)
 [![EmotiNest](https://img.shields.io/badge/EmotiNest-7B1FA2?style=flat-square)](https://myemotinest.com)
