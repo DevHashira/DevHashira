@@ -48,16 +48,6 @@ neurodivergent children. Live on iOS & Android.**
 
 ---
 
-## 📚 Currently Learning
-
-| Skill | Resource | Status |
-|---|---|---|
-| Python for AI Engineering | 100 Days of Code | 🟢 Active |
-| LLM APIs & RAG | AI Engineer Core Track — Ed Donner | 🔜 Next |
-| AI Agents & MCP | AI Engineer Agentic Track — Ed Donner | 🔜 Upcoming |
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulestrellapm)
