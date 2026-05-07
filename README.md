@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Paul Estrella
-**AI Automation & Product Builder | Founder @ EmotiNest**
+**AI Engineer | Python · LLMs · RAG · Agents | Founder @ EmotiNest**
 
 I help businesses automate processes and integrate AI 
 into their workflows — and I build AI-powered products 
@@ -20,7 +20,8 @@ children. Live on iOS & Android.**
 ### 🤖 AI & Automation
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square)
 
 ### 💻 Development
@@ -32,6 +33,7 @@ children. Live on iOS & Android.**
 ### ⚙️ Infrastructure
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
