@@ -22,6 +22,8 @@ and I help businesses understand and implement AI the right way.
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square)
 
 ### 💻 Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
