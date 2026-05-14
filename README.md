@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Paul Estrella
 **AI Engineer | LLM Integration · RAG · Agents | Founder @ EmotiNest · HealthTech**
 
-I help businesses automate processes and integrate AI into their workflows —
-and I build AI-powered products that solve real human problems.
+I build AI-powered assistants and knowledge systems that solve real human problems —
+and I help businesses understand and implement AI the right way.
 
 ---
 
@@ -15,9 +15,8 @@ and I build AI-powered products that solve real human problems.
 
 ## 🛠️ Stack
 
-### 🤖 AI & Automation
+### 🤖 AI & LLMs
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square)
